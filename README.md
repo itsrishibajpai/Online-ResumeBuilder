@@ -13,7 +13,7 @@ Star the repo by pressing the topmost-right button to start your wonderful journ
 
 ### 1. Fork the repo :fork_and_knife:
 
-You can get your own fork/copy of  <a href="https://github.com/devclub-biet-jhansi/Online-ResumeBuilder">Online ResumeBuilder</a> by using the <kbd><b>Fork</b></kbd> button at top-right of your screen.
+You can get your own fork/copy of  <a href="https://github.com/itsrishibajpai/Online-ResumeBuilder.git">Online ResumeBuilder</a> by using the <kbd><b>Fork</b></kbd> button at top-right of your screen.
 
 
 ### 2. Clone it to your local machine :busts_in_silhouette:
@@ -23,7 +23,7 @@ You can get your own fork/copy of  <a href="https://github.com/devclub-biet-jhan
 You need to clone (download) it to local machine using
 
 ```sh
-$ git clone https://github.com/devclub-biet-jhansi/Online-ResumeBuilder.git
+$ git clone https://github.com/itsrishibajpai/Online-ResumeBuilder.git
 ```
 
 > This makes a local copy of the repository in your machine.
